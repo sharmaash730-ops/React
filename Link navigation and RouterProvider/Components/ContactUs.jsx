@@ -1,0 +1,9 @@
+function ContactUs(){
+    return(
+        <div>
+            <h1>Contact Us</h1>
+            <h2>This is contact us pag</h2>
+        </div>
+    )
+}
+export default ContactUs;
